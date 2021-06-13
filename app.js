@@ -79,7 +79,8 @@ app.get('/web',(req,res)=>{
                 "Email" : "john240@gmail.com",
                 "Phone" : "269-748-9882",
                 "Gender" : "Male",
-                "DOB" : "10/04/1997"
+                "DOB" : "10/04/1997",
+                "Profile url": 'https://thumbs.dreamstime.com/b/profile-icon-male-avatar-portrait-casual-person-silhouette-face-flat-design-vector-46846325.jpg'
             }
             res.send(details);
 
