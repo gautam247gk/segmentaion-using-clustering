@@ -1,11 +1,16 @@
 {
   "name": "trailapp",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.18.2",
+    "npm": "6.14.8"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
