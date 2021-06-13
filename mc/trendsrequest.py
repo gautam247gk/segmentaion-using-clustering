@@ -144,7 +144,9 @@ for qtr in quarters:
 
 km = KMeans(n_clusters=min(k_values), init='k-means++', max_iter=600)
 
+startid=0
 for qtr in quarters:
+  ids=range(startid,startid+len(qtr))
   data = qtr.iloc[:, [R_Index, F_Index, M_Index]].values
   normalized_qtr = normalize(data)
   km = km.fit(normalized_qtr)
@@ -152,6 +154,8 @@ for qtr in quarters:
   # retrievedModel = retrievedModel.fit()
   clusters = km.predict(normalized_qtr)
   qtr['Clusters'] = clusters
+  qtr['id']=ids
+  startid=len(qtr)
   y_predicted.append(clusters)
 
 # quarters
@@ -249,6 +253,7 @@ for qtr in quarters:
   for cluster in qtr['Clusters'].unique():
     sub_data = qtr[qtr['Clusters'] == cluster].values
     obj = {
+      'id' : f"{year_name}-{qtr_name}-{cluster}" ,
       'cluster name' : f"Cluster {cluster}",
       'clusterSize' : len(sub_data),
       'date' : f"{year_name}-{qtr_name}"

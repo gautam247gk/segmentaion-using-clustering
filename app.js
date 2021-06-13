@@ -1,6 +1,6 @@
 var express=require('express');
 var app=express();
-const p=process.env.PORT;
+const p=process.env.PORT || 3000 ;
 app.listen(p);
 app.get('/', (req, res) => {
     res.send('Hello Guis!')
@@ -71,7 +71,7 @@ app.get('/web',(req,res)=>{
     }
     else if(rtype=='Auth')
     {
-        if(username=='John240') AND (password=='password')
+        if(username=='John240' && password=='password')
         {
             details = {
                 "Name" : "John Lennon" ,
@@ -81,8 +81,15 @@ app.get('/web',(req,res)=>{
                 "Gender" : "Male",
                 "DOB" : "10/04/1997"
             }
-            res.send(details.toString());
+            res.send(details);
 
+        }
+        else 
+        {
+            details = {
+                "Name" : "Error"
+            }
+            res.send(details);
         }
         
         

@@ -1,234 +1,234 @@
-,TERMINAL ID,QUANTITYORDERED,PRICEEACH,TRANSACTION COUNT,PRICE,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE,Clusters
-9,10211,41,100.0,14,4708.44,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,95,S10_1678,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-10,10223,37,100.0,1,3965.66,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,95,S10_1678,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
-36,10215,35,100.0,3,6075.3,1/29/2004 0:00,Shipped,1,1,2004,Classic Cars,214,S10_1949,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-37,10228,29,100.0,2,6463.23,3-10-2004 00:00,Shipped,1,3,2004,Classic Cars,214,S10_1949,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,1
-63,10210,23,100.0,2,3009.09,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,118,S10_2016,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,0
-64,10223,47,100.0,4,5422.39,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,118,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
-89,10210,34,100.0,1,6123.4,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,193,S10_4698,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,0
-90,10223,49,100.0,3,9774.03,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large,2
-115,10209,39,100.0,8,5197.92,1-9-2004 00:00,Shipped,1,1,2004,Classic Cars,136,S10_4757,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Medium,0
-116,10222,49,100.0,12,5997.6,2/19/2004 0:00,Shipped,1,2,2004,Classic Cars,136,S10_4757,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-143,10217,48,100.0,4,7020.48,2-4-2004 00:00,Shipped,1,2,2004,Classic Cars,147,S10_4962,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Large,2
-144,10229,50,100.0,9,6426.5,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,147,S10_4962,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-170,10211,41,100.0,2,7498.9,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,194,S12_1099,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Large,0
-171,10225,27,100.0,9,4517.91,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,194,S12_1099,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-195,10208,46,100.0,13,8602.92,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,207,S12_1108,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large,0
-196,10220,32,100.0,2,7181.44,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,207,S12_1108,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Large,2
-197,10231,42,100.0,2,8378.58,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,207,S12_1108,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Large,1
-222,10216,43,100.0,1,5759.42,2-2-2004 00:00,Shipped,1,2,2004,Trucks and Buses,136,S12_1666,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium,2
-223,10229,25,100.0,13,3451.0,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,136,S12_1666,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-249,10211,36,100.0,13,4771.8,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,150,S12_2823,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-250,10224,43,100.0,6,6087.94,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,150,S12_2823,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,2
-275,10208,26,100.0,14,3142.36,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,151,S12_3148,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-276,10220,30,100.0,3,4713.6,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,151,S12_3148,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,2
-277,10230,43,100.0,1,7016.31,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,151,S12_3148,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,1
-300,10212,39,100.0,16,4946.76,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,117,S12_3380,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-301,10225,25,99.82,7,2495.5,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,117,S12_3380,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,2
-325,10208,20,100.0,12,3114.4,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,173,S12_3891,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-326,10220,27,100.0,1,5045.22,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,173,S12_3891,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,2
-327,10231,49,100.0,1,6952.12,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,173,S12_3891,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium,1
-351,10211,28,92.57,3,2591.96,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,79,S12_3990,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-352,10225,37,77.41,10,2864.17,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,79,S12_3990,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,2
-377,10219,48,100.0,2,4891.68,2-10-2004 00:00,Shipped,1,2,2004,Trucks and Buses,118,S12_4473,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Medium,2
-378,10229,36,100.0,1,4521.96,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,118,S12_4473,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-403,10212,33,100.0,15,4180.44,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,115,S12_4675,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-404,10225,21,100.0,6,2684.43,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,115,S12_4675,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,2
-430,10215,46,100.0,2,5152.0,1/29/2004 0:00,Shipped,1,1,2004,Trucks and Buses,116,S18_1097,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-431,10228,32,100.0,1,3360.0,3-10-2004 00:00,Shipped,1,3,2004,Trucks and Buses,116,S18_1097,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,1
-457,10212,29,100.0,10,4186.73,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_1129,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-458,10225,32,100.0,1,4529.28,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,141,S18_1129,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-485,10215,27,89.38,10,2413.26,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,102,S18_1342,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,0
-486,10227,25,100.0,3,2953.75,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,102,S18_1342,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-511,10215,33,43.13,9,1423.29,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,53,S18_1367,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,0
-512,10227,31,48.52,2,1504.12,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,53,S18_1367,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-536,10212,38,100.0,6,4492.36,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-537,10226,38,100.0,4,4161.38,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,124,S18_1589,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-561,10210,31,100.0,17,5719.5,1-12-2004 00:00,Shipped,1,1,2004,Planes,157,S18_1662,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,0
-562,10222,49,100.0,4,6954.08,2/19/2004 0:00,Shipped,1,2,2004,Planes,157,S18_1662,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-587,10214,30,100.0,7,5967.0,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,170,S18_1749,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,0
-588,10227,26,100.0,10,3712.8,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,170,S18_1749,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-609,10212,20,66.99,14,1339.8,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,77,S18_1889,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
-610,10225,47,64.68,5,3039.96,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,77,S18_1889,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-635,10212,41,100.0,9,4840.87,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,142,S18_1984,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-636,10226,24,100.0,7,3892.08,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,142,S18_1984,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-663,10219,43,100.0,1,8448.64,2-10-2004 00:00,Shipped,1,2,2004,Classic Cars,163,S18_2238,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Large,2
-664,10230,49,100.0,8,7300.51,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,163,S18_2238,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,1
-689,10214,21,62.96,6,1322.16,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,60,S18_2248,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,0
-690,10227,28,50.85,9,1423.8,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,60,S18_2248,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-712,10229,26,100.0,4,3765.32,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,122,S18_2319,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-737,10214,27,100.0,4,3604.23,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,127,S18_2325,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,0
-738,10227,46,100.0,7,7017.76,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,127,S18_2325,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large,1
-763,10217,35,61.38,2,2148.3,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,60,S18_2432,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,2
-764,10229,28,59.55,7,1667.4,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,60,S18_2432,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-786,10210,50,76.88,7,3844.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,84,S18_2581,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,0
-787,10223,47,100.0,9,4724.91,2/20/2004 0:00,Shipped,1,2,2004,Planes,84,S18_2581,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
-813,10210,40,49.67,3,1986.8,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,60,S18_2625,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-814,10223,28,60.57,5,1695.96,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,60,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-840,10214,50,100.0,1,9534.5,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,168,S18_2795,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Large,0
-841,10227,29,100.0,4,5579.02,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,168,S18_2795,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-865,10212,40,100.0,7,4910.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-866,10226,24,100.0,5,3231.36,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,132,S18_2870,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-891,10215,49,100.0,4,5510.05,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,101,S18_2949,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-892,10228,24,100.0,3,2504.4,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,101,S18_2949,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Small,1
-918,10215,31,58.71,6,1820.01,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,62,S18_2957,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,0
-919,10228,45,63.71,5,2866.95,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,62,S18_2957,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Small,1
-944,10209,28,100.0,6,2817.92,1-9-2004 00:00,Shipped,1,1,2004,Ships,86,S18_3029,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-945,10222,49,94.62,10,4636.38,2/19/2004 0:00,Shipped,1,2,2004,Ships,86,S18_3029,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-971,10215,49,100.0,5,5285.14,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,104,S18_3136,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-972,10228,31,100.0,4,3181.53,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,104,S18_3136,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,1
-997,10208,24,100.0,9,2622.48,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,136,S18_3140,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-998,10221,33,100.0,3,4417.38,2/18/2004 0:00,Shipped,1,2,2004,Vintage Cars,136,S18_3140,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,2
-999,10232,22,100.0,6,3606.02,3/20/2004 0:00,Shipped,1,3,2004,Vintage Cars,136,S18_3140,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,1
-1032,10212,40,100.0,11,5554.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1033,10225,43,100.0,2,6407.86,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,169,S18_3232,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-1034,10229,22,100.0,5,4172.52,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,169,S18_3232,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-1074,10208,48,100.0,11,5614.56,1-2-2004 00:00,Shipped,1,1,2004,Trains,100,S18_3259,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-1075,10221,23,80.67,5,1855.41,2/18/2004 0:00,Shipped,1,2,2004,Trains,100,S18_3259,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small,2
-1076,10232,48,95.8,8,4598.4,3/20/2004 0:00,Shipped,1,3,2004,Trains,100,S18_3259,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,1
-1099,10211,35,78.0,5,2730.0,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S18_3278,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-1100,10225,37,95.69,12,3540.53,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,80,S18_3278,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-1124,10215,41,100.0,8,4555.92,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,99,S18_3320,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-1125,10227,33,100.0,1,3666.96,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,99,S18_3320,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-1149,10211,28,100.0,4,3745.28,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,146,S18_3482,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-1150,10225,27,100.0,11,4564.08,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,146,S18_3482,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-1174,10212,45,100.0,8,6357.6,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1175,10226,46,100.0,6,7343.9,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,141,S18_3685,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Large,2
-1198,10211,46,54.09,8,2488.14,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,62,S18_3782,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-1199,10224,38,58.44,1,2220.72,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,62,S18_3782,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,2
-1224,10209,20,100.0,5,2498.6,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,105,S18_3856,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-1225,10222,45,85.75,9,3858.75,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,105,S18_3856,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-1251,10220,50,100.0,5,8258.0,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,143,S18_4027,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Large,2
-1252,10230,42,100.0,3,7238.28,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,143,S18_4027,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,1
-1276,10213,38,94.79,1,3602.02,1/22/2004 0:00,Shipped,1,1,2004,Vintage Cars,92,S18_4409,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Medium,0
-1277,10227,34,100.0,11,3566.94,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,92,S18_4409,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-1298,10208,45,87.77,8,3949.65,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,87,S18_4522,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-1299,10221,39,89.53,2,3491.67,2/18/2004 0:00,Shipped,1,2,2004,Vintage Cars,87,S18_4522,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,2
-1300,10232,23,89.53,5,2059.19,3/20/2004 0:00,Shipped,1,3,2004,Vintage Cars,87,S18_4522,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,1
-1325,10217,38,100.0,5,4509.08,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,121,S18_4600,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Medium,2
-1326,10229,41,100.0,10,4716.23,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,121,S18_4600,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-1352,10215,46,45.28,1,2082.88,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,50,S18_4668,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,0
-1353,10229,39,40.25,14,1569.75,3-11-2004 00:00,Shipped,1,3,2004,Vintage Cars,50,S18_4668,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-1377,10211,41,100.0,7,5673.58,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,148,S18_4721,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-1378,10225,35,100.0,14,5260.15,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,148,S18_4721,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-1401,10213,25,83.39,2,2084.75,1/22/2004 0:00,Shipped,1,1,2004,Classic Cars,71,S18_4933,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Small,0
-1402,10227,37,57.73,12,2136.01,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,71,S18_4933,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-1423,10212,41,82.31,3,3374.71,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1424,10226,21,60.26,1,1265.46,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,73,S24_1046,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-1448,10220,26,56.07,8,1457.82,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,57,S24_1444,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,2
-1449,10230,36,54.33,6,1955.88,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,57,S24_1444,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,1
-1475,10211,25,90.16,15,2254.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,112,S24_1578,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-1476,10223,32,91.29,2,2921.28,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,112,S24_1578,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-1501,10212,45,53.33,5,2399.85,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
-1502,10226,36,43.27,3,1557.72,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,50,S24_1628,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-1521,10210,27,98.48,9,2658.96,1-12-2004 00:00,Shipped,1,1,2004,Planes,109,S24_1785,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-1522,10223,34,100.0,11,3608.76,2/20/2004 0:00,Shipped,1,2,2004,Planes,109,S24_1785,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
-1548,10214,20,34.19,3,683.8,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,33,S24_1937,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,0
-1549,10227,42,29.21,6,1226.82,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,33,S24_1937,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-1573,10210,30,61.7,4,1851.0,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,76,S24_2000,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-1574,10223,38,69.31,6,2633.78,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,76,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-1599,10208,35,100.0,7,4301.15,1-2-2004 00:00,Shipped,1,1,2004,Ships,122,S24_2011,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-1600,10221,49,100.0,1,6804.63,2/18/2004 0:00,Shipped,1,2,2004,Ships,122,S24_2011,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,2
-1601,10232,46,100.0,4,5652.94,3/20/2004 0:00,Shipped,1,3,2004,Ships,122,S24_2011,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,1
-1625,10214,49,47.94,2,2349.06,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,44,S24_2022,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,0
-1626,10227,24,48.38,5,1161.12,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,44,S24_2022,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-1651,10217,28,100.0,1,3148.88,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,127,S24_2300,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Medium,2
-1652,10229,48,100.0,6,5704.32,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,127,S24_2300,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-1676,10211,21,63.72,11,1338.12,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,69,S24_2360,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-1677,10224,37,80.34,4,2972.58,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,69,S24_2360,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,2
-1701,10212,45,88.14,1,3966.3,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1702,10227,47,88.14,14,4142.58,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,90,S24_2766,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-1726,10219,21,40.31,3,846.51,2-10-2004 00:00,Shipped,1,2,2004,Classic Cars,35,S24_2840,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Small,2
-1727,10229,33,32.88,2,1085.04,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,35,S24_2840,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-1753,10209,43,82.21,1,3535.03,1-9-2004 00:00,Shipped,1,1,2004,Planes,68,S24_2841,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Medium,0
-1754,10222,32,81.53,5,2608.96,2/19/2004 0:00,Shipped,1,2,2004,Planes,68,S24_2841,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-1778,10213,27,100.0,3,2790.45,1/22/2004 0:00,Shipped,1,1,2004,Classic Cars,117,S24_2887,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Small,0
-1779,10227,33,100.0,13,4340.49,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,117,S24_2887,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-1801,10212,34,43.42,12,1476.28,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
-1802,10225,42,36.63,3,1538.46,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,37,S24_2972,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,2
-1828,10208,20,89.4,2,1788.0,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,88,S24_3151,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-1829,10222,47,70.81,14,3328.07,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,88,S24_3151,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-1830,10233,40,94.71,2,3788.4,3/29/2004 0:00,Shipped,1,3,2004,Vintage Cars,88,S24_3151,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Medium,1
-1853,10212,27,79.62,2,2149.74,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
-1854,10227,40,79.62,15,3184.8,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,85,S24_3191,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1
-1877,10211,48,48.98,1,2351.04,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,61,S24_3371,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-1878,10225,24,50.21,8,1205.04,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,61,S24_3371,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,2
-1903,10209,36,77.59,2,2793.24,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,65,S24_3420,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-1904,10222,43,70.35,6,3025.05,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,65,S24_3420,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-1929,10212,46,87.81,4,4039.26,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1930,10226,48,92.09,2,4420.32,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,107,S24_3432,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-1953,10209,22,89.73,7,1974.06,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,83,S24_3816,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-1954,10222,46,80.51,11,3703.46,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,83,S24_3816,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-1979,10212,49,100.0,13,6949.67,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
-1980,10225,40,100.0,4,4550.0,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,140,S24_3856,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-2005,10210,29,69.6,16,2018.4,1-12-2004 00:00,Shipped,1,1,2004,Planes,68,S24_3949,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2006,10222,48,56.64,3,2718.72,2/19/2004 0:00,Shipped,1,2,2004,Planes,68,S24_3949,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2033,10214,44,34.88,5,1534.72,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,41,S24_3969,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,0
-2034,10227,27,43.9,8,1185.3,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,41,S24_3969,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1
-2056,10220,37,100.0,7,5032.74,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,118,S24_4048,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,2
-2057,10230,45,100.0,5,4737.15,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,118,S24_4048,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium,1
-2082,10215,39,90.57,7,3532.23,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,97,S24_4258,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,0
-2083,10228,33,100.0,6,3406.59,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,97,S24_4258,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,1
-2103,10210,40,71.0,8,2840.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,72,S24_4278,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2104,10223,23,74.62,10,1716.26,2/20/2004 0:00,Shipped,1,2,2004,Planes,72,S24_4278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2130,10211,22,92.16,6,2027.52,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S24_4620,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-2131,10225,46,70.33,13,3235.18,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,80,S24_4620,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,2
-2156,10217,21,100.0,3,2244.9,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,96,S32_1268,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,2
-2157,10229,25,100.0,8,2793.0,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-2179,10210,46,79.91,5,3675.86,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,99,S32_1374,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,0
-2180,10223,21,100.0,7,2475.27,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,99,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2205,10211,41,42.24,9,1731.84,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,40,S32_2206,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,0
-2206,10224,43,39.43,2,1695.49,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,40,S32_2206,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,2
-2232,10219,35,55.19,4,1931.65,2-10-2004 00:00,Shipped,1,2,2004,Trucks and Buses,54,S32_2509,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Small,2
-2233,10229,23,54.11,3,1244.53,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,54,S32_2509,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-2260,10220,20,52.82,6,1056.4,2-12-2004 00:00,Shipped,1,2,2004,Trains,62,S32_3207,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,2
-2261,10230,46,60.9,4,2801.4,3/15/2004 0:00,Shipped,1,3,2004,Trains,62,S32_3207,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,1
-2286,10217,39,62.05,7,2419.95,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,64,S32_3522,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,2
-2287,10229,30,73.04,12,2191.2,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,64,S32_3522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,1
-2308,10210,39,59.16,10,2307.24,1-12-2004 00:00,Shipped,1,1,2004,Vintage Cars,68,S32_4289,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2309,10223,20,66.04,12,1320.8,2/20/2004 0:00,Shipped,1,2,2004,Vintage Cars,68,S32_4289,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2335,10211,37,100.0,12,4040.03,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,102,S32_4485,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-2336,10224,30,100.0,5,3336.9,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,102,S32_4485,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,2
-2359,10210,43,41.02,11,1763.86,1-12-2004 00:00,Shipped,1,1,2004,Vintage Cars,43,S50_1341,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2360,10223,41,46.26,13,1896.66,2/20/2004 0:00,Shipped,1,2,2004,Vintage Cars,43,S50_1341,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2388,10220,37,100.0,9,3983.05,2-12-2004 00:00,Shipped,1,2,2004,Trucks and Buses,115,S50_1392,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,2
-2389,10230,34,100.0,7,3974.94,3/15/2004 0:00,Shipped,1,3,2004,Trucks and Buses,115,S50_1392,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium,1
-2415,10208,30,65.61,15,1968.3,1-2-2004 00:00,Shipped,1,1,2004,Trains,58,S50_1514,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-2416,10220,30,68.54,4,2056.2,2-12-2004 00:00,Shipped,1,2,2004,Trains,58,S50_1514,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,2
-2417,10230,43,52.14,2,2242.02,3/15/2004 0:00,Shipped,1,3,2004,Trains,58,S50_1514,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,1
-2440,10211,40,80.55,10,3222.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,81,S50_4713,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,0
-2441,10224,50,77.29,3,3864.5,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,81,S50_4713,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,2
-2466,10208,38,74.67,3,2837.46,1-2-2004 00:00,Shipped,1,1,2004,Ships,66,S700_1138,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-2467,10222,31,62.67,15,1942.77,2/19/2004 0:00,Shipped,1,2,2004,Ships,66,S700_1138,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2468,10233,36,70.67,3,2544.12,3/29/2004 0:00,Shipped,1,3,2004,Ships,66,S700_1138,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Small,1
-2490,10210,21,78.55,12,1649.55,1-12-2004 00:00,Shipped,1,1,2004,Planes,91,S700_1691,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2491,10223,25,100.0,14,2534.75,2/20/2004 0:00,Shipped,1,2,2004,Planes,91,S700_1691,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2518,10208,40,80.55,10,3222.0,1-2-2004 00:00,Shipped,1,1,2004,Ships,86,S700_1938,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-2519,10221,23,97.0,4,2231.0,2/18/2004 0:00,Shipped,1,2,2004,Ships,86,S700_1938,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small,2
-2520,10232,26,88.34,7,2296.84,3/20/2004 0:00,Shipped,1,3,2004,Ships,86,S700_1938,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,1
-2543,10209,33,88.71,4,2927.43,1-9-2004 00:00,Shipped,1,1,2004,Ships,90,S700_2047,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-2544,10222,26,100.0,8,2659.54,2/19/2004 0:00,Shipped,1,2,2004,Ships,90,S700_2047,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2569,10210,26,99.72,14,2592.72,1-12-2004 00:00,Shipped,1,1,2004,Planes,99,S700_2466,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2570,10222,37,87.75,1,3246.75,2/19/2004 0:00,Shipped,1,2,2004,Planes,99,S700_2466,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-2597,10208,46,74.45,1,3424.7,1-2-2004 00:00,Shipped,1,1,2004,Ships,72,S700_2610,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-2598,10222,36,80.95,13,2914.2,2/19/2004 0:00,Shipped,1,2,2004,Ships,72,S700_2610,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2599,10233,29,82.4,1,2389.6,3/29/2004 0:00,Shipped,1,3,2004,Ships,72,S700_2610,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Small,1
-2624,10217,31,88.0,6,2728.0,2-4-2004 00:00,Shipped,1,2,2004,Classic Cars,101,S700_2824,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,2
-2625,10229,50,100.0,11,5614.0,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,101,S700_2824,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,1
-2647,10210,25,100.0,6,2818.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,118,S700_2834,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2648,10223,29,100.0,8,3199.86,2/20/2004 0:00,Shipped,1,2,2004,Planes,118,S700_2834,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
-2672,10210,31,86.4,13,2678.4,1-12-2004 00:00,Shipped,1,1,2004,Planes,80,S700_3167,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2673,10223,26,67.2,15,1747.2,2/20/2004 0:00,Shipped,1,2,2004,Planes,80,S700_3167,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,2
-2700,10208,37,100.0,4,4447.4,1-2-2004 00:00,Shipped,1,1,2004,Ships,100,S700_3505,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,0
-2701,10222,38,100.0,16,4187.22,2/19/2004 0:00,Shipped,1,2,2004,Ships,100,S700_3505,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-2702,10232,48,96.16,1,4615.68,3/20/2004 0:00,Shipped,1,3,2004,Ships,100,S700_3505,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,1
-2726,10208,33,85.41,5,2818.53,1-2-2004 00:00,Shipped,1,1,2004,Ships,99,S700_3962,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-2727,10222,31,95.34,17,2955.54,2/19/2004 0:00,Shipped,1,2,2004,Ships,99,S700_3962,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2728,10232,35,82.43,2,2885.05,3/20/2004 0:00,Shipped,1,3,2004,Ships,99,S700_3962,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,1
-2751,10210,42,70.33,15,2953.86,1-12-2004 00:00,Shipped,1,1,2004,Planes,74,S700_4002,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,0
-2752,10222,43,74.03,2,3183.29,2/19/2004 0:00,Shipped,1,2,2004,Planes,74,S700_4002,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,2
-2779,10209,48,44.69,3,2145.12,1-9-2004 00:00,Shipped,1,1,2004,Planes,49,S72_1253,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,0
-2780,10222,31,45.69,7,1416.39,2/19/2004 0:00,Shipped,1,2,2004,Planes,49,S72_1253,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2806,10208,42,63.88,6,2682.96,1-2-2004 00:00,Shipped,1,1,2004,Ships,54,S72_3212,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,0
-2807,10222,36,63.34,18,2280.24,2/19/2004 0:00,Shipped,1,2,2004,Ships,54,S72_3212,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,2
-2808,10232,24,49.69,3,1192.56,3/20/2004 0:00,Shipped,1,3,2004,Ships,54,S72_3212,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,1
+,TERMINAL ID,QUANTITYORDERED,PRICEEACH,TRANSACTION COUNT,PRICE,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE,Clusters,id
+9,10211,41,100.0,14,4708.44,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,95,S10_1678,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,524
+10,10223,37,100.0,1,3965.66,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,95,S10_1678,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,0,525
+36,10215,35,100.0,3,6075.3,1/29/2004 0:00,Shipped,1,1,2004,Classic Cars,214,S10_1949,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,526
+37,10228,29,100.0,2,6463.23,3-10-2004 00:00,Shipped,1,3,2004,Classic Cars,214,S10_1949,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,2,527
+63,10210,23,100.0,2,3009.09,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,118,S10_2016,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,1,528
+64,10223,47,100.0,4,5422.39,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,118,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,0,529
+89,10210,34,100.0,1,6123.4,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,193,S10_4698,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,1,530
+90,10223,49,100.0,3,9774.03,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large,0,531
+115,10209,39,100.0,8,5197.92,1-9-2004 00:00,Shipped,1,1,2004,Classic Cars,136,S10_4757,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Medium,1,532
+116,10222,49,100.0,12,5997.6,2/19/2004 0:00,Shipped,1,2,2004,Classic Cars,136,S10_4757,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,533
+143,10217,48,100.0,4,7020.48,2-4-2004 00:00,Shipped,1,2,2004,Classic Cars,147,S10_4962,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Large,0,534
+144,10229,50,100.0,9,6426.5,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,147,S10_4962,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,535
+170,10211,41,100.0,2,7498.9,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,194,S12_1099,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Large,1,536
+171,10225,27,100.0,9,4517.91,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,194,S12_1099,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,537
+195,10208,46,100.0,13,8602.92,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,207,S12_1108,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large,1,538
+196,10220,32,100.0,2,7181.44,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,207,S12_1108,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Large,0,539
+197,10231,42,100.0,2,8378.58,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,207,S12_1108,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Large,2,540
+222,10216,43,100.0,1,5759.42,2-2-2004 00:00,Shipped,1,2,2004,Trucks and Buses,136,S12_1666,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Medium,0,541
+223,10229,25,100.0,13,3451.0,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,136,S12_1666,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,542
+249,10211,36,100.0,13,4771.8,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,150,S12_2823,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,543
+250,10224,43,100.0,6,6087.94,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,150,S12_2823,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,0,544
+275,10208,26,100.0,14,3142.36,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,151,S12_3148,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,545
+276,10220,30,100.0,3,4713.6,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,151,S12_3148,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,0,546
+277,10230,43,100.0,1,7016.31,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,151,S12_3148,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,2,547
+300,10212,39,100.0,16,4946.76,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,117,S12_3380,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,548
+301,10225,25,99.82,7,2495.5,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,117,S12_3380,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,0,549
+325,10208,20,100.0,12,3114.4,1-2-2004 00:00,Shipped,1,1,2004,Classic Cars,173,S12_3891,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,550
+326,10220,27,100.0,1,5045.22,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,173,S12_3891,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,0,551
+327,10231,49,100.0,1,6952.12,3/19/2004 0:00,Shipped,1,3,2004,Classic Cars,173,S12_3891,CAF Imports,+34 913 728 555,"Merchants House, 27-30 Merchant's Quay",,Madrid,,28023,Spain,EMEA,Fernandez,Jesus,Medium,2,552
+351,10211,28,92.57,3,2591.96,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,79,S12_3990,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,553
+352,10225,37,77.41,10,2864.17,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,79,S12_3990,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,0,554
+377,10219,48,100.0,2,4891.68,2-10-2004 00:00,Shipped,1,2,2004,Trucks and Buses,118,S12_4473,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Medium,0,555
+378,10229,36,100.0,1,4521.96,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,118,S12_4473,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,556
+403,10212,33,100.0,15,4180.44,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,115,S12_4675,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,557
+404,10225,21,100.0,6,2684.43,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,115,S12_4675,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,0,558
+430,10215,46,100.0,2,5152.0,1/29/2004 0:00,Shipped,1,1,2004,Trucks and Buses,116,S18_1097,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,559
+431,10228,32,100.0,1,3360.0,3-10-2004 00:00,Shipped,1,3,2004,Trucks and Buses,116,S18_1097,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,2,560
+457,10212,29,100.0,10,4186.73,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_1129,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,561
+458,10225,32,100.0,1,4529.28,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,141,S18_1129,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,562
+485,10215,27,89.38,10,2413.26,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,102,S18_1342,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,1,563
+486,10227,25,100.0,3,2953.75,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,102,S18_1342,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,564
+511,10215,33,43.13,9,1423.29,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,53,S18_1367,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,1,565
+512,10227,31,48.52,2,1504.12,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,53,S18_1367,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,566
+536,10212,38,100.0,6,4492.36,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,567
+537,10226,38,100.0,4,4161.38,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,124,S18_1589,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,568
+561,10210,31,100.0,17,5719.5,1-12-2004 00:00,Shipped,1,1,2004,Planes,157,S18_1662,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,1,569
+562,10222,49,100.0,4,6954.08,2/19/2004 0:00,Shipped,1,2,2004,Planes,157,S18_1662,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,570
+587,10214,30,100.0,7,5967.0,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,170,S18_1749,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,1,571
+588,10227,26,100.0,10,3712.8,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,170,S18_1749,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,572
+609,10212,20,66.99,14,1339.8,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,77,S18_1889,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,1,573
+610,10225,47,64.68,5,3039.96,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,77,S18_1889,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,574
+635,10212,41,100.0,9,4840.87,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,142,S18_1984,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,575
+636,10226,24,100.0,7,3892.08,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,142,S18_1984,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,576
+663,10219,43,100.0,1,8448.64,2-10-2004 00:00,Shipped,1,2,2004,Classic Cars,163,S18_2238,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Large,0,577
+664,10230,49,100.0,8,7300.51,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,163,S18_2238,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,2,578
+689,10214,21,62.96,6,1322.16,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,60,S18_2248,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,1,579
+690,10227,28,50.85,9,1423.8,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,60,S18_2248,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,580
+712,10229,26,100.0,4,3765.32,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,122,S18_2319,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,581
+737,10214,27,100.0,4,3604.23,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,127,S18_2325,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,1,582
+738,10227,46,100.0,7,7017.76,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,127,S18_2325,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Large,2,583
+763,10217,35,61.38,2,2148.3,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,60,S18_2432,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,0,584
+764,10229,28,59.55,7,1667.4,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,60,S18_2432,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,585
+786,10210,50,76.88,7,3844.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,84,S18_2581,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,1,586
+787,10223,47,100.0,9,4724.91,2/20/2004 0:00,Shipped,1,2,2004,Planes,84,S18_2581,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,0,587
+813,10210,40,49.67,3,1986.8,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,60,S18_2625,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,588
+814,10223,28,60.57,5,1695.96,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,60,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,589
+840,10214,50,100.0,1,9534.5,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,168,S18_2795,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Large,1,590
+841,10227,29,100.0,4,5579.02,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,168,S18_2795,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,591
+865,10212,40,100.0,7,4910.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,592
+866,10226,24,100.0,5,3231.36,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,132,S18_2870,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,593
+891,10215,49,100.0,4,5510.05,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,101,S18_2949,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,594
+892,10228,24,100.0,3,2504.4,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,101,S18_2949,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Small,2,595
+918,10215,31,58.71,6,1820.01,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,62,S18_2957,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,1,596
+919,10228,45,63.71,5,2866.95,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,62,S18_2957,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Small,2,597
+944,10209,28,100.0,6,2817.92,1-9-2004 00:00,Shipped,1,1,2004,Ships,86,S18_3029,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,598
+945,10222,49,94.62,10,4636.38,2/19/2004 0:00,Shipped,1,2,2004,Ships,86,S18_3029,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,599
+971,10215,49,100.0,5,5285.14,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,104,S18_3136,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,600
+972,10228,31,100.0,4,3181.53,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,104,S18_3136,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,2,601
+997,10208,24,100.0,9,2622.48,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,136,S18_3140,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,602
+998,10221,33,100.0,3,4417.38,2/18/2004 0:00,Shipped,1,2,2004,Vintage Cars,136,S18_3140,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,0,603
+999,10232,22,100.0,6,3606.02,3/20/2004 0:00,Shipped,1,3,2004,Vintage Cars,136,S18_3140,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,2,604
+1032,10212,40,100.0,11,5554.4,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,605
+1033,10225,43,100.0,2,6407.86,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,169,S18_3232,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,606
+1034,10229,22,100.0,5,4172.52,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,169,S18_3232,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,607
+1074,10208,48,100.0,11,5614.56,1-2-2004 00:00,Shipped,1,1,2004,Trains,100,S18_3259,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,608
+1075,10221,23,80.67,5,1855.41,2/18/2004 0:00,Shipped,1,2,2004,Trains,100,S18_3259,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small,0,609
+1076,10232,48,95.8,8,4598.4,3/20/2004 0:00,Shipped,1,3,2004,Trains,100,S18_3259,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,2,610
+1099,10211,35,78.0,5,2730.0,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S18_3278,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,611
+1100,10225,37,95.69,12,3540.53,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,80,S18_3278,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,612
+1124,10215,41,100.0,8,4555.92,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,99,S18_3320,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,613
+1125,10227,33,100.0,1,3666.96,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,99,S18_3320,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,614
+1149,10211,28,100.0,4,3745.28,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,146,S18_3482,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,615
+1150,10225,27,100.0,11,4564.08,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,146,S18_3482,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,616
+1174,10212,45,100.0,8,6357.6,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,617
+1175,10226,46,100.0,6,7343.9,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,141,S18_3685,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Large,0,618
+1198,10211,46,54.09,8,2488.14,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,62,S18_3782,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,619
+1199,10224,38,58.44,1,2220.72,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,62,S18_3782,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,0,620
+1224,10209,20,100.0,5,2498.6,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,105,S18_3856,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,621
+1225,10222,45,85.75,9,3858.75,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,105,S18_3856,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,622
+1251,10220,50,100.0,5,8258.0,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,143,S18_4027,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Large,0,623
+1252,10230,42,100.0,3,7238.28,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,143,S18_4027,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Large,2,624
+1276,10213,38,94.79,1,3602.02,1/22/2004 0:00,Shipped,1,1,2004,Vintage Cars,92,S18_4409,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Medium,1,625
+1277,10227,34,100.0,11,3566.94,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,92,S18_4409,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,626
+1298,10208,45,87.77,8,3949.65,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,87,S18_4522,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,627
+1299,10221,39,89.53,2,3491.67,2/18/2004 0:00,Shipped,1,2,2004,Vintage Cars,87,S18_4522,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,0,628
+1300,10232,23,89.53,5,2059.19,3/20/2004 0:00,Shipped,1,3,2004,Vintage Cars,87,S18_4522,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,2,629
+1325,10217,38,100.0,5,4509.08,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,121,S18_4600,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Medium,0,630
+1326,10229,41,100.0,10,4716.23,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,121,S18_4600,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,631
+1352,10215,46,45.28,1,2082.88,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,50,S18_4668,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Small,1,632
+1353,10229,39,40.25,14,1569.75,3-11-2004 00:00,Shipped,1,3,2004,Vintage Cars,50,S18_4668,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,633
+1377,10211,41,100.0,7,5673.58,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,148,S18_4721,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,634
+1378,10225,35,100.0,14,5260.15,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,148,S18_4721,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,635
+1401,10213,25,83.39,2,2084.75,1/22/2004 0:00,Shipped,1,1,2004,Classic Cars,71,S18_4933,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Small,1,636
+1402,10227,37,57.73,12,2136.01,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,71,S18_4933,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,637
+1423,10212,41,82.31,3,3374.71,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,638
+1424,10226,21,60.26,1,1265.46,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,73,S24_1046,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,639
+1448,10220,26,56.07,8,1457.82,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,57,S24_1444,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,0,640
+1449,10230,36,54.33,6,1955.88,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,57,S24_1444,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,2,641
+1475,10211,25,90.16,15,2254.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,112,S24_1578,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,642
+1476,10223,32,91.29,2,2921.28,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,112,S24_1578,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,643
+1501,10212,45,53.33,5,2399.85,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,1,644
+1502,10226,36,43.27,3,1557.72,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,50,S24_1628,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,645
+1521,10210,27,98.48,9,2658.96,1-12-2004 00:00,Shipped,1,1,2004,Planes,109,S24_1785,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,646
+1522,10223,34,100.0,11,3608.76,2/20/2004 0:00,Shipped,1,2,2004,Planes,109,S24_1785,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,0,647
+1548,10214,20,34.19,3,683.8,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,33,S24_1937,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,1,648
+1549,10227,42,29.21,6,1226.82,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,33,S24_1937,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,649
+1573,10210,30,61.7,4,1851.0,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,76,S24_2000,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,650
+1574,10223,38,69.31,6,2633.78,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,76,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,651
+1599,10208,35,100.0,7,4301.15,1-2-2004 00:00,Shipped,1,1,2004,Ships,122,S24_2011,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,652
+1600,10221,49,100.0,1,6804.63,2/18/2004 0:00,Shipped,1,2,2004,Ships,122,S24_2011,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Medium,0,653
+1601,10232,46,100.0,4,5652.94,3/20/2004 0:00,Shipped,1,3,2004,Ships,122,S24_2011,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,2,654
+1625,10214,49,47.94,2,2349.06,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,44,S24_2022,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,1,655
+1626,10227,24,48.38,5,1161.12,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,44,S24_2022,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,656
+1651,10217,28,100.0,1,3148.88,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,127,S24_2300,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Medium,0,657
+1652,10229,48,100.0,6,5704.32,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,127,S24_2300,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,658
+1676,10211,21,63.72,11,1338.12,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,69,S24_2360,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,659
+1677,10224,37,80.34,4,2972.58,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,69,S24_2360,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,0,660
+1701,10212,45,88.14,1,3966.3,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,661
+1702,10227,47,88.14,14,4142.58,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,90,S24_2766,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,662
+1726,10219,21,40.31,3,846.51,2-10-2004 00:00,Shipped,1,2,2004,Classic Cars,35,S24_2840,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Small,0,663
+1727,10229,33,32.88,2,1085.04,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,35,S24_2840,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,664
+1753,10209,43,82.21,1,3535.03,1-9-2004 00:00,Shipped,1,1,2004,Planes,68,S24_2841,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Medium,1,665
+1754,10222,32,81.53,5,2608.96,2/19/2004 0:00,Shipped,1,2,2004,Planes,68,S24_2841,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,666
+1778,10213,27,100.0,3,2790.45,1/22/2004 0:00,Shipped,1,1,2004,Classic Cars,117,S24_2887,"Double Decker Gift Stores, Ltd",(171) 555-7555,120 Hanover Sq.,,London,,WA1 1DP,UK,EMEA,Hardy,Thomas,Small,1,667
+1779,10227,33,100.0,13,4340.49,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,117,S24_2887,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,668
+1801,10212,34,43.42,12,1476.28,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,1,669
+1802,10225,42,36.63,3,1538.46,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,37,S24_2972,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,0,670
+1828,10208,20,89.4,2,1788.0,1-2-2004 00:00,Shipped,1,1,2004,Vintage Cars,88,S24_3151,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,671
+1829,10222,47,70.81,14,3328.07,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,88,S24_3151,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,672
+1830,10233,40,94.71,2,3788.4,3/29/2004 0:00,Shipped,1,3,2004,Vintage Cars,88,S24_3151,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Medium,2,673
+1853,10212,27,79.62,2,2149.74,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,1,674
+1854,10227,40,79.62,15,3184.8,3-2-2004 00:00,Shipped,1,3,2004,Classic Cars,85,S24_3191,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,2,675
+1877,10211,48,48.98,1,2351.04,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,61,S24_3371,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,676
+1878,10225,24,50.21,8,1205.04,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,61,S24_3371,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Small,0,677
+1903,10209,36,77.59,2,2793.24,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,65,S24_3420,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,678
+1904,10222,43,70.35,6,3025.05,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,65,S24_3420,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,679
+1929,10212,46,87.81,4,4039.26,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,680
+1930,10226,48,92.09,2,4420.32,2/26/2004 0:00,Shipped,1,2,2004,Classic Cars,107,S24_3432,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,681
+1953,10209,22,89.73,7,1974.06,1-9-2004 00:00,Shipped,1,1,2004,Vintage Cars,83,S24_3816,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,682
+1954,10222,46,80.51,11,3703.46,2/19/2004 0:00,Shipped,1,2,2004,Vintage Cars,83,S24_3816,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,683
+1979,10212,49,100.0,13,6949.67,1/16/2004 0:00,Shipped,1,1,2004,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,1,684
+1980,10225,40,100.0,4,4550.0,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,140,S24_3856,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,685
+2005,10210,29,69.6,16,2018.4,1-12-2004 00:00,Shipped,1,1,2004,Planes,68,S24_3949,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,686
+2006,10222,48,56.64,3,2718.72,2/19/2004 0:00,Shipped,1,2,2004,Planes,68,S24_3949,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,687
+2033,10214,44,34.88,5,1534.72,1/26/2004 0:00,Shipped,1,1,2004,Vintage Cars,41,S24_3969,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,1,688
+2034,10227,27,43.9,8,1185.3,3-2-2004 00:00,Shipped,1,3,2004,Vintage Cars,41,S24_3969,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,2,689
+2056,10220,37,100.0,7,5032.74,2-12-2004 00:00,Shipped,1,2,2004,Classic Cars,118,S24_4048,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,0,690
+2057,10230,45,100.0,5,4737.15,3/15/2004 0:00,Shipped,1,3,2004,Classic Cars,118,S24_4048,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium,2,691
+2082,10215,39,90.57,7,3532.23,1/29/2004 0:00,Shipped,1,1,2004,Vintage Cars,97,S24_4258,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,,Thompson,Steve,Medium,1,692
+2083,10228,33,100.0,6,3406.59,3-10-2004 00:00,Shipped,1,3,2004,Vintage Cars,97,S24_4258,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,,Tseng,Kyung,Medium,2,693
+2103,10210,40,71.0,8,2840.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,72,S24_4278,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,694
+2104,10223,23,74.62,10,1716.26,2/20/2004 0:00,Shipped,1,2,2004,Planes,72,S24_4278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,695
+2130,10211,22,92.16,6,2027.52,1/15/2004 0:00,Shipped,1,1,2004,Classic Cars,80,S24_4620,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,696
+2131,10225,46,70.33,13,3235.18,2/22/2004 0:00,Shipped,1,2,2004,Classic Cars,80,S24_4620,"Vida Sport, Ltd",0897-034555,Grenzacherweg 237,,Gensve,,1203,Switzerland,EMEA,Holz,Michael,Medium,0,697
+2156,10217,21,100.0,3,2244.9,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,96,S32_1268,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,0,698
+2157,10229,25,100.0,8,2793.0,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,699
+2179,10210,46,79.91,5,3675.86,1-12-2004 00:00,Shipped,1,1,2004,Motorcycles,99,S32_1374,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium,1,700
+2180,10223,21,100.0,7,2475.27,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,99,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,701
+2205,10211,41,42.24,9,1731.84,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,40,S32_2206,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Small,1,702
+2206,10224,43,39.43,2,1695.49,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,40,S32_2206,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Small,0,703
+2232,10219,35,55.19,4,1931.65,2-10-2004 00:00,Shipped,1,2,2004,Trucks and Buses,54,S32_2509,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,,Taylor,Sue,Small,0,704
+2233,10229,23,54.11,3,1244.53,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,54,S32_2509,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,705
+2260,10220,20,52.82,6,1056.4,2-12-2004 00:00,Shipped,1,2,2004,Trains,62,S32_3207,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,0,706
+2261,10230,46,60.9,4,2801.4,3/15/2004 0:00,Shipped,1,3,2004,Trains,62,S32_3207,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,2,707
+2286,10217,39,62.05,7,2419.95,2-4-2004 00:00,Shipped,1,2,2004,Trucks and Buses,64,S32_3522,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,0,708
+2287,10229,30,73.04,12,2191.2,3-11-2004 00:00,Shipped,1,3,2004,Trucks and Buses,64,S32_3522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small,2,709
+2308,10210,39,59.16,10,2307.24,1-12-2004 00:00,Shipped,1,1,2004,Vintage Cars,68,S32_4289,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,710
+2309,10223,20,66.04,12,1320.8,2/20/2004 0:00,Shipped,1,2,2004,Vintage Cars,68,S32_4289,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,711
+2335,10211,37,100.0,12,4040.03,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,102,S32_4485,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,712
+2336,10224,30,100.0,5,3336.9,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,102,S32_4485,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,0,713
+2359,10210,43,41.02,11,1763.86,1-12-2004 00:00,Shipped,1,1,2004,Vintage Cars,43,S50_1341,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,714
+2360,10223,41,46.26,13,1896.66,2/20/2004 0:00,Shipped,1,2,2004,Vintage Cars,43,S50_1341,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,715
+2388,10220,37,100.0,9,3983.05,2-12-2004 00:00,Shipped,1,2,2004,Trucks and Buses,115,S50_1392,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Medium,0,716
+2389,10230,34,100.0,7,3974.94,3/15/2004 0:00,Shipped,1,3,2004,Trucks and Buses,115,S50_1392,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium,2,717
+2415,10208,30,65.61,15,1968.3,1-2-2004 00:00,Shipped,1,1,2004,Trains,58,S50_1514,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,718
+2416,10220,30,68.54,4,2056.2,2-12-2004 00:00,Shipped,1,2,2004,Trains,58,S50_1514,"Clover Collections, Co.",+353 1862 1555,25 Maiden Lane,Floor No. 4,Dublin,,2,Ireland,EMEA,Cassidy,Dean,Small,0,719
+2417,10230,43,52.14,2,2242.02,3/15/2004 0:00,Shipped,1,3,2004,Trains,58,S50_1514,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small,2,720
+2440,10211,40,80.55,10,3222.0,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,81,S50_4713,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium,1,721
+2441,10224,50,77.29,3,3864.5,2/21/2004 0:00,Shipped,1,2,2004,Motorcycles,81,S50_4713,Daedalus Designs Imports,20.16.1555,"184, chausse de Tournai",,Lille,,59000,France,EMEA,Rance,Martine,Medium,0,722
+2466,10208,38,74.67,3,2837.46,1-2-2004 00:00,Shipped,1,1,2004,Ships,66,S700_1138,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,723
+2467,10222,31,62.67,15,1942.77,2/19/2004 0:00,Shipped,1,2,2004,Ships,66,S700_1138,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,724
+2468,10233,36,70.67,3,2544.12,3/29/2004 0:00,Shipped,1,3,2004,Ships,66,S700_1138,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Small,2,725
+2490,10210,21,78.55,12,1649.55,1-12-2004 00:00,Shipped,1,1,2004,Planes,91,S700_1691,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,726
+2491,10223,25,100.0,14,2534.75,2/20/2004 0:00,Shipped,1,2,2004,Planes,91,S700_1691,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,727
+2518,10208,40,80.55,10,3222.0,1-2-2004 00:00,Shipped,1,1,2004,Ships,86,S700_1938,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,728
+2519,10221,23,97.0,4,2231.0,2/18/2004 0:00,Shipped,1,2,2004,Ships,86,S700_1938,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small,0,729
+2520,10232,26,88.34,7,2296.84,3/20/2004 0:00,Shipped,1,3,2004,Ships,86,S700_1938,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,2,730
+2543,10209,33,88.71,4,2927.43,1-9-2004 00:00,Shipped,1,1,2004,Ships,90,S700_2047,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,731
+2544,10222,26,100.0,8,2659.54,2/19/2004 0:00,Shipped,1,2,2004,Ships,90,S700_2047,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,732
+2569,10210,26,99.72,14,2592.72,1-12-2004 00:00,Shipped,1,1,2004,Planes,99,S700_2466,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,733
+2570,10222,37,87.75,1,3246.75,2/19/2004 0:00,Shipped,1,2,2004,Planes,99,S700_2466,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,734
+2597,10208,46,74.45,1,3424.7,1-2-2004 00:00,Shipped,1,1,2004,Ships,72,S700_2610,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,735
+2598,10222,36,80.95,13,2914.2,2/19/2004 0:00,Shipped,1,2,2004,Ships,72,S700_2610,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,736
+2599,10233,29,82.4,1,2389.6,3/29/2004 0:00,Shipped,1,3,2004,Ships,72,S700_2610,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,,Brown,William,Small,2,737
+2624,10217,31,88.0,6,2728.0,2-4-2004 00:00,Shipped,1,2,2004,Classic Cars,101,S700_2824,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Small,0,738
+2625,10229,50,100.0,11,5614.0,3-11-2004 00:00,Shipped,1,3,2004,Classic Cars,101,S700_2824,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium,2,739
+2647,10210,25,100.0,6,2818.0,1-12-2004 00:00,Shipped,1,1,2004,Planes,118,S700_2834,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,740
+2648,10223,29,100.0,8,3199.86,2/20/2004 0:00,Shipped,1,2,2004,Planes,118,S700_2834,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,0,741
+2672,10210,31,86.4,13,2678.4,1-12-2004 00:00,Shipped,1,1,2004,Planes,80,S700_3167,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,742
+2673,10223,26,67.2,15,1747.2,2/20/2004 0:00,Shipped,1,2,2004,Planes,80,S700_3167,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,0,743
+2700,10208,37,100.0,4,4447.4,1-2-2004 00:00,Shipped,1,1,2004,Ships,100,S700_3505,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Medium,1,744
+2701,10222,38,100.0,16,4187.22,2/19/2004 0:00,Shipped,1,2,2004,Ships,100,S700_3505,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,745
+2702,10232,48,96.16,1,4615.68,3/20/2004 0:00,Shipped,1,3,2004,Ships,100,S700_3505,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium,2,746
+2726,10208,33,85.41,5,2818.53,1-2-2004 00:00,Shipped,1,1,2004,Ships,99,S700_3962,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,747
+2727,10222,31,95.34,17,2955.54,2/19/2004 0:00,Shipped,1,2,2004,Ships,99,S700_3962,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,748
+2728,10232,35,82.43,2,2885.05,3/20/2004 0:00,Shipped,1,3,2004,Ships,99,S700_3962,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,2,749
+2751,10210,42,70.33,15,2953.86,1-12-2004 00:00,Shipped,1,1,2004,Planes,74,S700_4002,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small,1,750
+2752,10222,43,74.03,2,3183.29,2/19/2004 0:00,Shipped,1,2,2004,Planes,74,S700_4002,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Medium,0,751
+2779,10209,48,44.69,3,2145.12,1-9-2004 00:00,Shipped,1,1,2004,Planes,49,S72_1253,"Men 'R' US Retailers, Ltd.",2155554369,6047 Douglas Av.,,Los Angeles,CA,,USA,,Chandler,Michael,Small,1,752
+2780,10222,31,45.69,7,1416.39,2/19/2004 0:00,Shipped,1,2,2004,Planes,49,S72_1253,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,753
+2806,10208,42,63.88,6,2682.96,1-2-2004 00:00,Shipped,1,1,2004,Ships,54,S72_3212,"Saveley & Henriot, Co.",78.32.5555,"2, rue du Commerce",,Lyon,,69004,France,EMEA,Saveley,Mary,Small,1,754
+2807,10222,36,63.34,18,2280.24,2/19/2004 0:00,Shipped,1,2,2004,Ships,54,S72_3212,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,,Thompson,Valarie,Small,0,755
+2808,10232,24,49.69,3,1192.56,3/20/2004 0:00,Shipped,1,3,2004,Ships,54,S72_3212,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small,2,756
