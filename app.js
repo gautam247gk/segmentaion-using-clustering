@@ -1,6 +1,6 @@
 var express=require('express');
 var app=express();
-const p=process.env.PORT || 3000;
+const p=process.env.PORT;
 app.listen(p);
 app.get('/', (req, res) => {
     res.send('Hello World!')
