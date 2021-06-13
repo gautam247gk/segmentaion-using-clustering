@@ -60,7 +60,7 @@ app.get('/web',(req,res)=>{
         process=spawn('python3',['./mc/trendsrequest.py']);
         process.stdout.on('data', function(data) {
             //console.log(data.toString());
-            res.send(data.toJson());
+            res.send(data.toString());
         })
         process.stderr.on('data', (data) => {
             console.log(`error:${data}`);
@@ -71,7 +71,7 @@ app.get('/web',(req,res)=>{
     }
     else if(rtype=='Auth')
     {
-        if(username=='John240') AND (password=='240john')
+        if(username=='John240') AND (password=='password')
         {
             details = {
                 "Name" : "John Lennon" ,
@@ -81,7 +81,7 @@ app.get('/web',(req,res)=>{
                 "Gender" : "Male",
                 "DOB" : "10/04/1997"
             }
-            res.send(details.toJson);
+            res.send(details.toString());
 
         }
         
