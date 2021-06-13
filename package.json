@@ -16,8 +16,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "libxmljs": "^0.19.7",
-    "node-gyp": "^8.1.0",
-    "numpy": "0.0.1",
-    "python.node": "^1.0.4"
+    "node-gyp": "^8.1.0"
   }
 }
