@@ -1,0 +1,163 @@
+,TERMINAL ID,QUANTITYORDERED,PRICEEACH,TRANSACTION COUNT,PRICE,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE,Clusters
+1,10121,34,81.35,5,2765.9,5-7-2003 00:00,Shipped,2,5,2003,Motorcycles,95,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small,2
+28,10126,38,100.0,11,7329.06,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,214,S10_1949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Large,2
+55,10120,29,96.34,3,2793.86,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,118,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+81,10120,46,100.0,2,9264.86,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large,1
+107,10119,46,100.0,11,5004.8,4/28/2003 0:00,Shipped,2,4,2003,Classic Cars,136,S10_4757,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium,1
+108,10129,33,100.0,2,4398.24,6-12-2003 00:00,Shipped,2,6,2003,Classic Cars,136,S10_4757,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+134,10114,31,100.0,8,4305.28,4-1-2003 00:00,Shipped,2,4,2003,Classic Cars,147,S10_4962,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+135,10126,22,100.0,4,3347.74,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,147,S10_4962,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+162,10122,42,100.0,10,7599.9,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,194,S12_1099,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Large,2
+187,10117,33,100.0,9,6034.38,4/16/2003 0:00,Shipped,2,4,2003,Classic Cars,207,S12_1108,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+188,10127,46,100.0,2,11279.2,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,207,S12_1108,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Large,0
+214,10126,21,100.0,8,2439.57,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,136,S12_1666,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+241,10121,50,100.0,4,8284.0,5-7-2003 00:00,Shipped,2,5,2003,Motorcycles,150,S12_2823,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Large,2
+267,10117,43,100.0,10,5911.64,4/16/2003 0:00,Shipped,2,4,2003,Classic Cars,151,S12_3148,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+268,10127,46,100.0,3,7366.44,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,151,S12_3148,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Large,0
+292,10122,37,99.82,8,3693.34,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,117,S12_3380,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+317,10117,39,100.0,8,5938.14,4/16/2003 0:00,Shipped,2,4,2003,Classic Cars,173,S12_3891,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+318,10127,42,100.0,1,8138.76,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,173,S12_3891,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Large,0
+343,10122,32,63.84,11,2042.88,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,79,S12_3990,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+368,10115,46,100.0,5,5723.78,4-4-2003 00:00,Shipped,2,4,2003,Trucks and Buses,118,S12_4473,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,Hernandez,Maria,Medium,1
+369,10127,24,100.0,11,2559.6,6-3-2003 00:00,Shipped,2,6,2003,Trucks and Buses,118,S12_4473,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+395,10122,20,100.0,7,2142.0,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,115,S12_4675,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+422,10126,38,100.0,10,3857.0,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,116,S18_1097,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+449,10122,34,100.0,2,5004.8,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,141,S18_1129,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+477,10125,32,100.0,1,3254.72,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,102,S18_1342,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
+503,10126,42,54.99,17,2309.58,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,53,S18_1367,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+528,10123,26,100.0,2,3073.72,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,124,S18_1589,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium,2
+553,10119,43,100.0,3,6916.12,4/28/2003 0:00,Shipped,2,4,2003,Planes,157,S18_1662,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium,1
+554,10131,21,100.0,4,2781.66,6/16/2003 0:00,Shipped,2,6,2003,Planes,157,S18_1662,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+580,10124,21,100.0,6,2856.0,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,170,S18_1749,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+601,10122,43,72.38,6,3112.34,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,77,S18_1889,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+627,10122,31,100.0,1,4100.99,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,142,S18_1984,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+654,10115,46,100.0,4,7381.16,4-4-2003 00:00,Shipped,2,4,2003,Classic Cars,163,S18_2238,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,Hernandez,Maria,Large,1
+655,10127,45,100.0,10,7146.9,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,163,S18_2238,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Large,0
+682,10124,42,53.88,5,2262.96,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,60,S18_2248,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+703,10114,39,100.0,3,4164.42,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,122,S18_2319,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+704,10127,45,100.0,14,6295.95,6-3-2003 00:00,Shipped,2,6,2003,Trucks and Buses,122,S18_2319,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Medium,0
+730,10124,42,100.0,3,4431.84,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,127,S18_2325,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Medium,2
+754,10114,45,68.67,6,3090.15,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,60,S18_2432,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+755,10126,43,65.02,2,2795.86,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,60,S18_2432,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+782,10120,29,71.81,8,2082.49,4/29/2003 0:00,Shipped,2,4,2003,Planes,84,S18_2581,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+783,10133,49,69.27,3,3394.23,6/27/2003 0:00,Shipped,2,6,2003,Planes,84,S18_2581,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+805,10120,46,58.15,4,2674.9,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,60,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+832,10125,34,100.0,2,6483.46,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,168,S18_2795,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,2
+857,10123,46,100.0,3,5161.2,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,132,S18_2870,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium,2
+883,10126,31,90.17,12,2795.27,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,101,S18_2949,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+910,10126,46,73.7,14,3390.2,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,62,S18_2957,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+936,10119,21,89.46,9,1878.66,4/28/2003 0:00,Shipped,2,4,2003,Ships,86,S18_3029,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+937,10130,40,96.34,2,3853.6,6/16/2003 0:00,Shipped,2,6,2003,Ships,86,S18_3029,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,,Taylor,Leslie,Medium,0
+963,10126,30,97.39,13,2921.7,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,104,S18_3136,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+989,10117,26,100.0,5,3551.34,4/16/2003 0:00,Shipped,2,4,2003,Vintage Cars,136,S18_3140,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+990,10128,41,100.0,2,5544.02,6-6-2003 00:00,Shipped,2,6,2003,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+1015,10114,48,100.0,4,8209.44,4-1-2003 00:00,Shipped,2,4,2003,Classic Cars,169,S18_3232,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Large,1
+1016,10122,25,100.0,3,3598.5,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,169,S18_3232,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+1017,10127,22,100.0,15,3837.24,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,169,S18_3232,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Medium,0
+1066,10117,21,95.8,7,2011.8,4/16/2003 0:00,Shipped,2,4,2003,Trains,100,S18_3259,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small,1
+1067,10128,41,100.0,4,4837.18,6-6-2003 00:00,Shipped,2,6,2003,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+1091,10122,21,73.17,13,1536.57,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,80,S18_3278,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+1116,10126,38,82.34,16,3128.92,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,99,S18_3320,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+1141,10122,21,100.0,12,2469.39,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,146,S18_3482,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+1166,10123,34,100.0,4,5331.88,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,141,S18_3685,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Medium,2
+1191,10122,35,49.74,16,1740.9,5-8-2003 00:00,Shipped,2,5,2003,Motorcycles,62,S18_3782,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+1216,10119,27,99.52,8,2687.04,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,105,S18_3856,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+1217,10130,33,100.0,1,3423.75,6/16/2003 0:00,Shipped,2,6,2003,Vintage Cars,105,S18_3856,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,,Taylor,Leslie,Medium,0
+1242,10117,22,100.0,12,2780.58,4/16/2003 0:00,Shipped,2,4,2003,Classic Cars,143,S18_4027,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small,1
+1243,10127,25,100.0,5,3447.0,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,143,S18_4027,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Medium,0
+1269,10124,36,85.59,7,3081.24,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,92,S18_4409,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Medium,2
+1290,10117,23,97.42,4,2240.66,4/16/2003 0:00,Shipped,2,4,2003,Vintage Cars,87,S18_4522,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small,1
+1291,10128,43,92.16,1,3962.88,6-6-2003 00:00,Shipped,2,6,2003,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+1316,10114,41,100.0,9,4815.45,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,121,S18_4600,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+1317,10126,50,100.0,5,7083.0,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,121,S18_4600,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Large,2
+1344,10126,43,53.83,9,2314.69,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,50,S18_4668,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+1370,10122,28,100.0,15,3583.16,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,148,S18_4721,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+1394,10124,23,57.73,8,1327.79,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,71,S18_4933,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1416,10124,22,77.9,12,1713.8,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,73,S24_1046,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1439,10115,47,69.36,2,3259.92,4-4-2003 00:00,Shipped,2,4,2003,Classic Cars,57,S24_1444,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,Hernandez,Maria,Medium,1
+1440,10127,20,60.69,8,1213.8,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,57,S24_1444,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+1467,10120,35,98.05,1,3431.75,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,112,S24_1578,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,1
+1493,10123,50,59.87,1,2993.5,5/20/2003 0:00,Shipped,2,5,2003,Classic Cars,50,S24_1628,Atelier graphique,40.32.2555,"54, rue Royale",,Nantes,,44000,France,EMEA,Schmitt,Carine,Small,2
+1517,10120,39,100.0,10,4651.53,4/29/2003 0:00,Shipped,2,4,2003,Planes,109,S24_1785,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,1
+1518,10133,41,94.1,5,3858.1,6/27/2003 0:00,Shipped,2,6,2003,Planes,109,S24_1785,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+1541,10124,45,37.84,2,1702.8,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,33,S24_1937,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1565,10120,34,83.79,5,2848.86,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,76,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+1591,10117,41,100.0,3,5189.78,4/16/2003 0:00,Shipped,2,4,2003,Ships,122,S24_2011,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+1592,10129,45,100.0,9,6027.75,6-12-2003 00:00,Shipped,2,6,2003,Ships,122,S24_2011,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+1618,10124,22,45.25,1,995.5,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,44,S24_2022,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1642,10114,21,100.0,5,2925.09,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,127,S24_2300,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small,1
+1643,10126,27,100.0,1,3415.77,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,127,S24_2300,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+1669,10121,32,76.88,2,2460.16,5-7-2003 00:00,Shipped,2,5,2003,Motorcycles,69,S24_2360,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small,2
+1694,10124,32,72.7,10,2326.4,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,90,S24_2766,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1717,10114,24,30.06,1,721.44,4-1-2003 00:00,Shipped,2,4,2003,Classic Cars,35,S24_2840,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small,1
+1718,10127,39,38.19,12,1489.41,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,35,S24_2840,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+1745,10119,41,59.6,4,2443.6,4/28/2003 0:00,Shipped,2,4,2003,Planes,68,S24_2841,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+1746,10131,35,67.14,5,2349.9,6/16/2003 0:00,Shipped,2,6,2003,Planes,68,S24_2841,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+1771,10124,25,93.95,9,2348.75,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,117,S24_2887,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+1793,10122,39,30.96,4,1207.44,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,37,S24_2972,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+1820,10119,35,87.62,13,3066.7,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,88,S24_3151,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium,1
+1821,10129,41,94.71,4,3883.11,6-12-2003 00:00,Shipped,2,6,2003,Vintage Cars,88,S24_3151,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+1846,10124,49,83.04,11,4068.96,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,85,S24_3191,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Medium,2
+1869,10122,34,50.21,9,1707.14,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,61,S24_3371,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+1895,10119,20,72.98,5,1459.6,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,65,S24_3420,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+1896,10131,29,59.18,6,1716.22,6/16/2003 0:00,Shipped,2,6,2003,Vintage Cars,65,S24_3420,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+1922,10124,43,100.0,13,5203.0,5/21/2003 0:00,Shipped,2,5,2003,Classic Cars,107,S24_3432,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Medium,2
+1945,10119,35,90.57,10,3169.95,4/28/2003 0:00,Shipped,2,4,2003,Vintage Cars,83,S24_3816,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium,1
+1946,10129,50,77.99,1,3899.5,6-12-2003 00:00,Shipped,2,6,2003,Vintage Cars,83,S24_3816,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+1971,10122,43,100.0,5,5494.97,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,140,S24_3856,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Medium,2
+1998,10119,28,70.29,2,1968.12,4/28/2003 0:00,Shipped,2,4,2003,Planes,68,S24_3949,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+1999,10131,50,81.89,3,4094.5,6/16/2003 0:00,Shipped,2,6,2003,Planes,68,S24_3949,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Medium,0
+2026,10124,46,33.23,4,1528.58,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,41,S24_3969,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,,King,Sue,Small,2
+2047,10115,44,100.0,1,5568.64,4-4-2003 00:00,Shipped,2,4,2003,Classic Cars,118,S24_4048,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,Hernandez,Maria,Medium,1
+2048,10127,20,96.99,7,1939.8,6-3-2003 00:00,Shipped,2,6,2003,Classic Cars,118,S24_4048,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+2074,10126,34,100.0,15,3576.12,5/28/2003 0:00,Shipped,2,5,2003,Vintage Cars,97,S24_4258,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+2099,10120,29,85.49,9,2479.21,4/29/2003 0:00,Shipped,2,4,2003,Planes,72,S24_4278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+2100,10133,46,77.52,4,3565.92,6/27/2003 0:00,Shipped,2,6,2003,Planes,72,S24_4278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+2123,10122,29,71.14,14,2063.06,5-8-2003 00:00,Shipped,2,5,2003,Classic Cars,80,S24_4620,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+2147,10114,32,100.0,7,3667.52,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,96,S32_1268,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+2148,10126,43,96.31,3,4141.33,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,96,S32_1268,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+2174,10120,22,100.0,6,2461.36,4/29/2003 0:00,Shipped,2,4,2003,Motorcycles,99,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+2175,10133,23,100.0,1,2642.01,6/27/2003 0:00,Shipped,2,6,2003,Motorcycles,99,S32_1374,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
+2198,10122,31,44.66,17,1384.46,5-8-2003 00:00,Shipped,2,5,2003,Motorcycles,40,S32_2206,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small,2
+2223,10114,28,55.73,2,1560.44,4-1-2003 00:00,Shipped,2,4,2003,Trucks and Buses,54,S32_2509,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small,1
+2224,10127,45,51.95,13,2337.75,6-3-2003 00:00,Shipped,2,6,2003,Trucks and Buses,54,S32_2509,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+2251,10116,27,63.38,1,1711.26,4-11-2003 00:00,Shipped,2,4,2003,Trains,62,S32_3207,Royale Belge,(071) 23 67 2555,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Small,1
+2252,10127,29,70.84,6,2054.36,6-3-2003 00:00,Shipped,2,6,2003,Trains,62,S32_3207,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Small,0
+2278,10126,26,62.7,7,1630.2,5/28/2003 0:00,Shipped,2,5,2003,Trucks and Buses,64,S32_3522,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Small,2
+2304,10120,29,72.23,11,2094.67,4/29/2003 0:00,Shipped,2,4,2003,Vintage Cars,68,S32_4289,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+2305,10133,49,57.1,6,2797.9,6/27/2003 0:00,Shipped,2,6,2003,Vintage Cars,68,S32_4289,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
+2328,10121,25,86.74,3,2168.5,5-7-2003 00:00,Shipped,2,5,2003,Motorcycles,102,S32_4485,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small,2
+2353,10120,49,50.62,12,2480.38,4/29/2003 0:00,Shipped,2,4,2003,Vintage Cars,43,S50_1341,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+2354,10133,27,50.19,7,1355.13,6/27/2003 0:00,Shipped,2,6,2003,Vintage Cars,43,S50_1341,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
+2379,10115,27,100.0,3,2843.91,4-4-2003 00:00,Shipped,2,4,2003,Trucks and Buses,115,S50_1392,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,,Hernandez,Maria,Small,1
+2380,10127,46,100.0,9,6176.42,6-3-2003 00:00,Shipped,2,6,2003,Trucks and Buses,115,S50_1392,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Medium,0
+2407,10117,21,49.21,11,1033.41,4/16/2003 0:00,Shipped,2,4,2003,Trains,58,S50_1514,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small,1
+2408,10127,46,69.12,4,3179.52,6-3-2003 00:00,Shipped,2,6,2003,Trains,58,S50_1514,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,,Young,Jeff,Medium,0
+2433,10121,44,74.85,1,3293.4,5-7-2003 00:00,Shipped,2,5,2003,Motorcycles,81,S50_4713,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium,2
+2458,10119,25,76.67,14,1916.75,4/28/2003 0:00,Shipped,2,4,2003,Ships,66,S700_1138,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+2459,10129,31,60.0,5,1860.0,6-12-2003 00:00,Shipped,2,6,2003,Ships,66,S700_1138,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Small,0
+2484,10120,47,82.21,13,3863.87,4/29/2003 0:00,Shipped,2,4,2003,Planes,91,S700_1691,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,1
+2485,10133,24,77.64,8,1863.36,6/27/2003 0:00,Shipped,2,6,2003,Planes,91,S700_1691,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
+2510,10117,38,79.68,6,3027.84,4/16/2003 0:00,Shipped,2,4,2003,Ships,86,S700_1938,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+2511,10128,32,97.0,3,3104.0,6-6-2003 00:00,Shipped,2,6,2003,Ships,86,S700_1938,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium,0
+2535,10119,29,94.14,7,2730.06,4/28/2003 0:00,Shipped,2,4,2003,Ships,90,S700_2047,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+2536,10131,22,85.99,8,1891.78,6/16/2003 0:00,Shipped,2,6,2003,Ships,90,S700_2047,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+2562,10120,24,100.0,15,2584.8,4/29/2003 0:00,Shipped,2,4,2003,Planes,99,S700_2466,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small,1
+2563,10131,40,100.0,1,4427.6,6/16/2003 0:00,Shipped,2,6,2003,Planes,99,S700_2466,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Medium,0
+2589,10119,38,65.77,12,2499.26,4/28/2003 0:00,Shipped,2,4,2003,Ships,72,S700_2610,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+2590,10129,45,85.29,3,3838.05,6-12-2003 00:00,Shipped,2,6,2003,Ships,72,S700_2610,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+2615,10114,42,100.0,10,4758.18,4-1-2003 00:00,Shipped,2,4,2003,Classic Cars,101,S700_2824,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Medium,1
+2616,10126,45,100.0,6,4597.2,5/28/2003 0:00,Shipped,2,5,2003,Classic Cars,101,S700_2824,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart?,Medium,2
+2642,10120,24,100.0,7,3417.12,4/29/2003 0:00,Shipped,2,4,2003,Planes,118,S700_2834,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,1
+2643,10133,27,99.67,2,2691.09,6/27/2003 0:00,Shipped,2,6,2003,Planes,118,S700_2834,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small,0
+2667,10120,43,76.0,14,3268.0,4/29/2003 0:00,Shipped,2,4,2003,Planes,80,S700_3167,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium,1
+2692,10118,36,100.0,1,4219.2,4/21/2003 0:00,Shipped,2,4,2003,Ships,100,S700_3505,Enaco Distributors,(93) 203 4555,"Rambla de Catalu?, 23",,Barcelona,,8022,Spain,EMEA,Saavedra,Eduardo,Medium,1
+2693,10129,42,91.15,6,3828.3,6-12-2003 00:00,Shipped,2,6,2003,Ships,100,S700_3505,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Medium,0
+2718,10117,45,83.42,1,3753.9,4/16/2003 0:00,Shipped,2,4,2003,Ships,99,S700_3962,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium,1
+2719,10129,30,85.41,7,2562.3,6-12-2003 00:00,Shipped,2,6,2003,Ships,99,S700_3962,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Small,0
+2744,10119,26,59.22,1,1539.72,4/28/2003 0:00,Shipped,2,4,2003,Planes,74,S700_4002,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+2745,10131,26,85.13,2,2213.38,6/16/2003 0:00,Shipped,2,6,2003,Planes,74,S700_4002,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+2771,10119,28,48.17,6,1348.76,4/28/2003 0:00,Shipped,2,4,2003,Planes,49,S72_1253,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small,1
+2772,10131,21,41.71,7,875.91,6/16/2003 0:00,Shipped,2,6,2003,Planes,49,S72_1253,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,,Lewis,Dan,Small,0
+2798,10117,50,43.68,2,2184.0,4/16/2003 0:00,Shipped,2,4,2003,Ships,54,S72_3212,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small,1
+2799,10129,32,64.97,8,2079.04,6-12-2003 00:00,Shipped,2,6,2003,Ships,54,S72_3212,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Small,0
